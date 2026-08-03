@@ -22,6 +22,8 @@ https://github.com/user-attachments/assets/e3ec6cd7-2a62-4971-9e97-9906aca68265
 - [n8n-nodes-seedance2](https://github.com/Anil-matcha/n8n-nodes-seedance2) — Automate Seedance 2 generation in n8n workflows
 - [seedance-2.0-watermark-remover](https://github.com/SamurAIGPT/seedance-2.0-watermark-remover) — Remove watermarks from Seedance 2 generated videos
 - [awesome-seedance-2.5-api-prompts](https://github.com/Anil-matcha/awesome-seedance-2.5-api-prompts) — Curated Seedance 2.5 API guide, prompts, camera controls, and video generation examples
+- [seedance-2-mcp](https://github.com/Anil-matcha/seedance-2-mcp) — Focused MCP server for calling Seedance 2 from Claude, Cursor, and other AI assistants
+- [seedance-2.5-mcp](https://github.com/Anil-matcha/seedance-2.5-mcp) — Focused MCP server for calling Seedance 2.5 Preview from AI assistants
 
 ## 🧪 Try Models in the Muapi Playground
 
